@@ -5,3 +5,15 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+require "json"
+
+Noun.delete_all
+
+file = File.open File.join(File.dirname(__FILE__), "./nouns.json")
+nouns = JSON.load file
+file.close
+
+nouns.each do |noun|
+  Noun.create(name: noun["name"], gender: noun["gender"], translation: noun["translation"])
+end
