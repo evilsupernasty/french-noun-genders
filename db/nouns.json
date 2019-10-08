@@ -1,0 +1,974 @@
+[
+  {
+      "namewitharticle": "un acteur",
+      "name": "acteur",
+      "gender": 0,
+      "translation": "actor"
+  },
+  {
+      "namewitharticle": "une actrice",
+      "name": "actrice",
+      "gender": 1,
+      "translation": "actress"
+  },
+  {
+      "namewitharticle": "un avion",
+      "name": "avion",
+      "gender": 0,
+      "translation": "airplane"
+  },
+  {
+      "namewitharticle": "un aéroport",
+      "name": "aéroport",
+      "gender": 0,
+      "translation": "airport"
+  },
+  {
+      "namewitharticle": "un réveil",
+      "name": "réveil",
+      "gender": 0,
+      "translation": "alarm clock"
+  },
+  {
+      "namewitharticle": "une cheville",
+      "name": "cheville",
+      "gender": 1,
+      "translation": "ankle"
+  },
+  {
+      "namewitharticle": "un bras",
+      "name": "bras",
+      "gender": 0,
+      "translation": "arm"
+  },
+  {
+      "namewitharticle": "une tante",
+      "name": "tante",
+      "gender": 1,
+      "translation": "aunt"
+  },
+  {
+      "namewitharticle": "un dos",
+      "name": "dos",
+      "gender": 0,
+      "translation": "back"
+  },
+  {
+      "namewitharticle": "un sac à dos",
+      "name": "sac à dos",
+      "gender": 0,
+      "translation": "backpack"
+  },
+  {
+      "namewitharticle": "un boulanger",
+      "name": "boulanger",
+      "gender": 0,
+      "translation": "baker"
+  },
+  {
+      "namewitharticle": "un basket",
+      "name": "basket",
+      "gender": 0,
+      "translation": "basketball"
+  },
+  {
+      "namewitharticle": "un bain",
+      "name": "bain",
+      "gender": 0,
+      "translation": "bathtub"
+  },
+  {
+      "namewitharticle": "un lit",
+      "name": "lit",
+      "gender": 0,
+      "translation": "bed"
+  },
+  {
+      "namewitharticle": "un vélo",
+      "name": "vélo",
+      "gender": 0,
+      "translation": "bike"
+  },
+  {
+      "namewitharticle": "un classeur",
+      "name": "classeur",
+      "gender": 0,
+      "translation": "binder"
+  },
+  {
+      "namewitharticle": "un livre",
+      "name": "livre",
+      "gender": 0,
+      "translation": "book"
+  },
+  {
+      "namewitharticle": "un porte-documents",
+      "name": "porte-documents",
+      "gender": 0,
+      "translation": "briefcase"
+  },
+  {
+      "namewitharticle": "un frère",
+      "name": "frère",
+      "gender": 0,
+      "translation": "brother"
+  },
+  {
+      "namewitharticle": "un bus",
+      "name": "bus",
+      "gender": 0,
+      "translation": "bus"
+  },
+  {
+      "namewitharticle": "un boucher",
+      "name": "boucher",
+      "gender": 0,
+      "translation": "butcher"
+  },
+  {
+      "namewitharticle": "une calculatrice",
+      "name": "calculatrice",
+      "gender": 1,
+      "translation": "calculator"
+  },
+  {
+      "namewitharticle": "une voiture",
+      "name": "voiture",
+      "gender": 1,
+      "translation": "car"
+  },
+  {
+      "namewitharticle": "un charpentier",
+      "name": "charpentier",
+      "gender": 0,
+      "translation": "carpenter"
+  },
+  {
+      "namewitharticle": "une moquette",
+      "name": "moquette",
+      "gender": 1,
+      "translation": "carpet"
+  },
+  {
+      "namewitharticle": "un chariot",
+      "name": "chariot",
+      "gender": 0,
+      "translation": "cart"
+  },
+  {
+      "namewitharticle": "un caissier",
+      "name": "caissier",
+      "gender": 0,
+      "translation": "cashier"
+  },
+  {
+      "namewitharticle": "un plafond",
+      "name": "plafond",
+      "gender": 0,
+      "translation": "ceiling"
+  },
+  {
+      "namewitharticle": "une portable",
+      "name": "portable",
+      "gender": 1,
+      "translation": "cell phone"
+  },
+  {
+      "namewitharticle": "une chaise",
+      "name": "chaise",
+      "gender": 1,
+      "translation": "chair"
+  },
+  {
+      "namewitharticle": "une craie",
+      "name": "craie",
+      "gender": 1,
+      "translation": "chalk"
+  },
+  {
+      "namewitharticle": "un tableau",
+      "name": "tableau",
+      "gender": 0,
+      "translation": "chalkboard"
+  },
+  {
+      "namewitharticle": "une joue",
+      "name": "joue",
+      "gender": 1,
+      "translation": "cheek"
+  },
+  {
+      "namewitharticle": "une poitrine",
+      "name": "poitrine",
+      "gender": 1,
+      "translation": "chest"
+  },
+  {
+      "namewitharticle": "une salle de classe",
+      "name": "salle de classe",
+      "gender": 1,
+      "translation": "classroom"
+  },
+  {
+      "namewitharticle": "une armoire",
+      "name": "armoire",
+      "gender": 1,
+      "translation": "closet"
+  },
+  {
+      "namewitharticle": "un manteau",
+      "name": "manteau",
+      "gender": 0,
+      "translation": "coat"
+  },
+  {
+      "namewitharticle": "une université",
+      "name": "université",
+      "gender": 1,
+      "translation": "college"
+  },
+  {
+      "namewitharticle": "un ordinateur",
+      "name": "ordinateur",
+      "gender": 0,
+      "translation": "computer"
+  },
+  {
+      "namewitharticle": "un chef",
+      "name": "chef",
+      "gender": 0,
+      "translation": "cook"
+  },
+  {
+      "namewitharticle": "un canapé",
+      "name": "canapé",
+      "gender": 0,
+      "translation": "couch"
+  },
+  {
+      "namewitharticle": "un cours",
+      "name": "cours",
+      "gender": 0,
+      "translation": "course"
+  },
+  {
+      "namewitharticle": "un placard",
+      "name": "placard",
+      "gender": 0,
+      "translation": "cupboard"
+  },
+  {
+      "namewitharticle": "un rideau",
+      "name": "rideau",
+      "gender": 0,
+      "translation": "curtain"
+  },
+  {
+      "namewitharticle": "une douane",
+      "name": "douane",
+      "gender": 1,
+      "translation": "customs"
+  },
+  {
+      "namewitharticle": "une danse",
+      "name": "danse",
+      "gender": 1,
+      "translation": "dancing"
+  },
+  {
+      "namewitharticle": "une fille",
+      "name": "fille",
+      "gender": 1,
+      "translation": "daughter"
+  },
+  {
+      "namewitharticle": "un bureau",
+      "name": "bureau",
+      "gender": 0,
+      "translation": "desk"
+  },
+  {
+      "namewitharticle": "un bureau",
+      "name": "bureau",
+      "gender": 0,
+      "translation": "desk"
+  },
+  {
+      "namewitharticle": "un dictionnaire",
+      "name": "dictionnaire",
+      "gender": 0,
+      "translation": "dictionary"
+  },
+  {
+      "namewitharticle": "un médecin",
+      "name": "médecin",
+      "gender": 0,
+      "translation": "doctor"
+  },
+  {
+      "namewitharticle": "une porte",
+      "name": "porte",
+      "gender": 1,
+      "translation": "door"
+  },
+  {
+      "namewitharticle": "une commode",
+      "name": "commode",
+      "gender": 1,
+      "translation": "dresser"
+  },
+  {
+      "namewitharticle": "une oreille",
+      "name": "oreille",
+      "gender": 1,
+      "translation": "ear"
+  },
+  {
+      "namewitharticle": "un coude",
+      "name": "coude",
+      "gender": 0,
+      "translation": "elbow"
+  },
+  {
+      "namewitharticle": "un électricien",
+      "name": "électricien",
+      "gender": 0,
+      "translation": "electrician"
+  },
+  {
+      "namewitharticle": "un ingénieur",
+      "name": "ingénieur",
+      "gender": 0,
+      "translation": "engineer"
+  },
+  {
+      "namewitharticle": "une gomme",
+      "name": "gomme",
+      "gender": 1,
+      "translation": "eraser"
+  },
+  {
+      "namewitharticle": "un oeil",
+      "name": "oeil",
+      "gender": 0,
+      "translation": "eye"
+  },
+  {
+      "namewitharticle": "un visage",
+      "name": "visage",
+      "gender": 0,
+      "translation": "face"
+  },
+  {
+      "namewitharticle": "un père",
+      "name": "père",
+      "gender": 0,
+      "translation": "father"
+  },
+  {
+      "namewitharticle": "un télécopieur",
+      "name": "télécopieur",
+      "gender": 0,
+      "translation": "fax machine"
+  },
+  {
+      "namewitharticle": "un doigt",
+      "name": "doigt",
+      "gender": 0,
+      "translation": "finger"
+  },
+  {
+      "namewitharticle": "un ongle",
+      "name": "ongle",
+      "gender": 0,
+      "translation": "fingernail"
+  },
+  {
+      "namewitharticle": "un pompier",
+      "name": "pompier",
+      "gender": 0,
+      "translation": "fireman"
+  },
+  {
+      "namewitharticle": "un vol",
+      "name": "vol",
+      "gender": 0,
+      "translation": "flight"
+  },
+  {
+      "namewitharticle": "un sol",
+      "name": "sol",
+      "gender": 0,
+      "translation": "floor"
+  },
+  {
+      "namewitharticle": "un pied",
+      "name": "pied",
+      "gender": 0,
+      "translation": "foot"
+  },
+  {
+      "namewitharticle": "un football américain",
+      "name": "football américain",
+      "gender": 0,
+      "translation": "football"
+  },
+  {
+      "namewitharticle": "une porte",
+      "name": "porte",
+      "gender": 1,
+      "translation": "gate"
+  },
+  {
+      "namewitharticle": "une petite-fille",
+      "name": "petite-fille",
+      "gender": 1,
+      "translation": "granddaughter"
+  },
+  {
+      "namewitharticle": "un grand-père",
+      "name": "grand-père",
+      "gender": 0,
+      "translation": "grandfather"
+  },
+  {
+      "namewitharticle": "une grand-mère",
+      "name": "grand-mère",
+      "gender": 1,
+      "translation": "grandmother"
+  },
+  {
+      "namewitharticle": "un petit-fils",
+      "name": "petit-fils",
+      "gender": 0,
+      "translation": "grandson"
+  },
+  {
+      "namewitharticle": "une main",
+      "name": "main",
+      "gender": 1,
+      "translation": "hand"
+  },
+  {
+      "namewitharticle": "une tête",
+      "name": "tête",
+      "gender": 1,
+      "translation": "head"
+  },
+  {
+      "namewitharticle": "un collège",
+      "name": "collège",
+      "gender": 0,
+      "translation": "high school"
+  },
+  {
+      "namewitharticle": "un surligneur",
+      "name": "surligneur",
+      "gender": 0,
+      "translation": "highlighter"
+  },
+  {
+      "namewitharticle": "un mari",
+      "name": "mari",
+      "gender": 0,
+      "translation": "husband"
+  },
+  {
+      "namewitharticle": "une veste",
+      "name": "veste",
+      "gender": 1,
+      "translation": "jacket"
+  },
+  {
+      "namewitharticle": "un jean",
+      "name": "jean",
+      "gender": 0,
+      "translation": "jeans"
+  },
+  {
+      "namewitharticle": "un genou",
+      "name": "genou",
+      "gender": 0,
+      "translation": "knee"
+  },
+  {
+      "namewitharticle": "une lampe",
+      "name": "lampe",
+      "gender": 1,
+      "translation": "lamp"
+  },
+  {
+      "namewitharticle": "un avocat",
+      "name": "avocat",
+      "gender": 0,
+      "translation": "lawyer"
+  },
+  {
+      "namewitharticle": "une jambe",
+      "name": "jambe",
+      "gender": 1,
+      "translation": "leg"
+  },
+  {
+      "namewitharticle": "une lèvre",
+      "name": "lèvre",
+      "gender": 1,
+      "translation": "lip"
+  },
+  {
+      "namewitharticle": "un gérant",
+      "name": "gérant",
+      "gender": 0,
+      "translation": "manager"
+  },
+  {
+      "namewitharticle": "une carte",
+      "name": "carte",
+      "gender": 1,
+      "translation": "map"
+  },
+  {
+      "namewitharticle": "un mécanicien",
+      "name": "mécanicien",
+      "gender": 0,
+      "translation": "mechanic"
+  },
+  {
+      "namewitharticle": "un miroir",
+      "name": "miroir",
+      "gender": 0,
+      "translation": "mirror"
+  },
+  {
+      "namewitharticle": "une mère",
+      "name": "mère",
+      "gender": 1,
+      "translation": "mother"
+  },
+  {
+      "namewitharticle": "une bouche",
+      "name": "bouche",
+      "gender": 1,
+      "translation": "mouth"
+  },
+  {
+      "namewitharticle": "un film",
+      "name": "film",
+      "gender": 0,
+      "translation": "movie"
+  },
+  {
+      "namewitharticle": "une musique",
+      "name": "musique",
+      "gender": 1,
+      "translation": "music"
+  },
+  {
+      "namewitharticle": "un cou",
+      "name": "cou",
+      "gender": 0,
+      "translation": "neck"
+  },
+  {
+      "namewitharticle": "un neveu",
+      "name": "neveu",
+      "gender": 0,
+      "translation": "nephew"
+  },
+  {
+      "namewitharticle": "une nièce",
+      "name": "nièce",
+      "gender": 1,
+      "translation": "niece"
+  },
+  {
+      "namewitharticle": "un nez",
+      "name": "nez",
+      "gender": 0,
+      "translation": "nose"
+  },
+  {
+      "namewitharticle": "un cahier",
+      "name": "cahier",
+      "gender": 0,
+      "translation": "notebook"
+  },
+  {
+      "namewitharticle": "une infirmiere (fem)",
+      "name": "infirmiere (fem)",
+      "gender": 1,
+      "translation": "nurse"
+  },
+  {
+      "namewitharticle": "un four",
+      "name": "four",
+      "gender": 0,
+      "translation": "oven"
+  },
+  {
+      "namewitharticle": "un pyjama",
+      "name": "pyjama",
+      "gender": 0,
+      "translation": "pajamas"
+  },
+  {
+      "namewitharticle": "un pantalon",
+      "name": "pantalon",
+      "gender": 0,
+      "translation": "pants"
+  },
+  {
+      "namewitharticle": "un papier",
+      "name": "papier",
+      "gender": 0,
+      "translation": "paper"
+  },
+  {
+      "namewitharticle": "un papier",
+      "name": "papier",
+      "gender": 0,
+      "translation": "paper"
+  },
+  {
+      "namewitharticle": "un passager",
+      "name": "passager",
+      "gender": 0,
+      "translation": "passenger"
+  },
+  {
+      "namewitharticle": "un passeport",
+      "name": "passeport",
+      "gender": 0,
+      "translation": "passport"
+  },
+  {
+      "namewitharticle": "un stylo",
+      "name": "stylo",
+      "gender": 0,
+      "translation": "pen"
+  },
+  {
+      "namewitharticle": "un stylo",
+      "name": "stylo",
+      "gender": 0,
+      "translation": "pen"
+  },
+  {
+      "namewitharticle": "un crayon",
+      "name": "crayon",
+      "gender": 0,
+      "translation": "pencil"
+  },
+  {
+      "namewitharticle": "un pharmacien",
+      "name": "pharmacien",
+      "gender": 0,
+      "translation": "pharmacist"
+  },
+  {
+      "namewitharticle": "une feuille de papier",
+      "name": "feuille de papier",
+      "gender": 1,
+      "translation": "piece of paper"
+  },
+  {
+      "namewitharticle": "un oreiller",
+      "name": "oreiller",
+      "gender": 0,
+      "translation": "pillow"
+  },
+  {
+      "namewitharticle": "un pilote",
+      "name": "pilote",
+      "gender": 0,
+      "translation": "pilot"
+  },
+  {
+      "namewitharticle": "un billet d'avion",
+      "name": "billet d'avion",
+      "gender": 0,
+      "translation": "plane ticket"
+  },
+  {
+      "namewitharticle": "un plombier",
+      "name": "plombier",
+      "gender": 0,
+      "translation": "plumber"
+  },
+  {
+      "namewitharticle": "un policier",
+      "name": "policier",
+      "gender": 0,
+      "translation": "police officer"
+  },
+  {
+      "namewitharticle": "une affiche",
+      "name": "affiche",
+      "gender": 1,
+      "translation": "poster"
+  },
+  {
+      "namewitharticle": "un prix",
+      "name": "prix",
+      "gender": 0,
+      "translation": "price"
+  },
+  {
+      "namewitharticle": "une imprimante",
+      "name": "imprimante",
+      "gender": 1,
+      "translation": "printer"
+  },
+  {
+      "namewitharticle": "un imperméable",
+      "name": "imperméable",
+      "gender": 0,
+      "translation": "raincoat"
+  },
+  {
+      "namewitharticle": "un réfrigérateur",
+      "name": "réfrigérateur",
+      "gender": 0,
+      "translation": "refrigerator"
+  },
+  {
+      "namewitharticle": "un tapis",
+      "name": "tapis",
+      "gender": 0,
+      "translation": "rug"
+  },
+  {
+      "namewitharticle": "une sandale",
+      "name": "sandale",
+      "gender": 1,
+      "translation": "sandal"
+  },
+  {
+      "namewitharticle": "une école",
+      "name": "école",
+      "gender": 1,
+      "translation": "school"
+  },
+  {
+      "namewitharticle": "une étagère",
+      "name": "étagère",
+      "gender": 1,
+      "translation": "shelf"
+  },
+  {
+      "namewitharticle": "une chaussure",
+      "name": "chaussure",
+      "gender": 1,
+      "translation": "shoe"
+  },
+  {
+      "namewitharticle": "un short",
+      "name": "short",
+      "gender": 0,
+      "translation": "shorts"
+  },
+  {
+      "namewitharticle": "une épaule",
+      "name": "épaule",
+      "gender": 1,
+      "translation": "shoulder"
+  },
+  {
+      "namewitharticle": "une douche",
+      "name": "douche",
+      "gender": 1,
+      "translation": "shower"
+  },
+  {
+      "namewitharticle": "une navette",
+      "name": "navette",
+      "gender": 1,
+      "translation": "shuttle"
+  },
+  {
+      "namewitharticle": "un lavabo",
+      "name": "lavabo",
+      "gender": 0,
+      "translation": "sink"
+  },
+  {
+      "namewitharticle": "une soeur",
+      "name": "soeur",
+      "gender": 1,
+      "translation": "sister"
+  },
+  {
+      "namewitharticle": "une chaussette",
+      "name": "chaussette",
+      "gender": 1,
+      "translation": "sock"
+  },
+  {
+      "namewitharticle": "un fils",
+      "name": "fils",
+      "gender": 0,
+      "translation": "son"
+  },
+  {
+      "namewitharticle": "une agrafe",
+      "name": "agrafe",
+      "gender": 1,
+      "translation": "staple"
+  },
+  {
+      "namewitharticle": "une agrafeuse",
+      "name": "agrafeuse",
+      "gender": 1,
+      "translation": "stapler"
+  },
+  {
+      "namewitharticle": "un estomac",
+      "name": "estomac",
+      "gender": 0,
+      "translation": "stomach"
+  },
+  {
+      "namewitharticle": "une cuisinière",
+      "name": "cuisinière",
+      "gender": 1,
+      "translation": "stove"
+  },
+  {
+      "namewitharticle": "un étudiant",
+      "name": "étudiant",
+      "gender": 0,
+      "translation": "student"
+  },
+  {
+      "namewitharticle": "un métro",
+      "name": "métro",
+      "gender": 0,
+      "translation": "subway"
+  },
+  {
+      "namewitharticle": "station de métro",
+      "name": "de métro",
+      "gender": 1,
+      "translation": "subway station"
+  },
+  {
+      "namewitharticle": "un tee-shirt",
+      "name": "tee-shirt",
+      "gender": 0,
+      "translation": "t-shirt"
+  },
+  {
+      "namewitharticle": "une table",
+      "name": "table",
+      "gender": 1,
+      "translation": "table"
+  },
+  {
+      "namewitharticle": "un professeur",
+      "name": "professeur",
+      "gender": 0,
+      "translation": "teacher"
+  },
+  {
+      "namewitharticle": "un téléphone",
+      "name": "téléphone",
+      "gender": 0,
+      "translation": "telephone"
+  },
+  {
+      "namewitharticle": "une télé",
+      "name": "télé",
+      "gender": 1,
+      "translation": "television"
+  },
+  {
+      "namewitharticle": "un examen",
+      "name": "examen",
+      "gender": 0,
+      "translation": "test"
+  },
+  {
+      "namewitharticle": "un pouce",
+      "name": "pouce",
+      "gender": 0,
+      "translation": "thumb"
+  },
+  {
+      "namewitharticle": "un orteil",
+      "name": "orteil",
+      "gender": 0,
+      "translation": "toe"
+  },
+  {
+      "namewitharticle": "une toilette",
+      "name": "toilette",
+      "gender": 1,
+      "translation": "toilet"
+  },
+  {
+      "namewitharticle": "une dent",
+      "name": "dent",
+      "gender": 1,
+      "translation": "tooth"
+  },
+  {
+      "namewitharticle": "un train",
+      "name": "train",
+      "gender": 0,
+      "translation": "train"
+  },
+  {
+      "namewitharticle": "une gare",
+      "name": "gare",
+      "gender": 1,
+      "translation": "train station"
+  },
+  {
+      "namewitharticle": "un oncle",
+      "name": "oncle",
+      "gender": 0,
+      "translation": "uncle"
+  },
+  {
+      "namewitharticle": "un serveur",
+      "name": "serveur",
+      "gender": 0,
+      "translation": "waiter"
+  },
+  {
+      "namewitharticle": "une serveuse",
+      "name": "serveuse",
+      "gender": 1,
+      "translation": "waitress"
+  },
+  {
+      "namewitharticle": "un mur",
+      "name": "mur",
+      "gender": 0,
+      "translation": "wall"
+  },
+  {
+      "namewitharticle": "une femme",
+      "name": "femme",
+      "gender": 1,
+      "translation": "wife"
+  },
+  {
+      "namewitharticle": "une fenêtre",
+      "name": "fenêtre",
+      "gender": 1,
+      "translation": "window"
+  },
+  {
+      "namewitharticle": "un poignet",
+      "name": "poignet",
+      "gender": 0,
+      "translation": "wrist"
+  },
+  {
+      "namewitharticle": "un écrivain",
+      "name": "écrivain",
+      "gender": 0,
+      "translation": "writer"
+  }
+]
