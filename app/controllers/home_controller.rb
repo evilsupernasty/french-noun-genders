@@ -1,3 +1,5 @@
 class HomeController < ApplicationController
-  def index() end
+  def index
+    @nouns = Noun.limit(20).order("RANDOM()")
+  end
 end
