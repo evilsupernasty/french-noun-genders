@@ -1,1 +1,33 @@
 <h1 class="title is-1">French Noun Genders</h1>
+<form action="/">
+  <div class="nouns">
+    <% @nouns.each do |noun| %>
+      <div class="noun">
+        <div class="noun__content">
+          <p class="noun__title"><%= noun.name %></p>
+          <p class="noun__subtitle"><%= noun.translation %></p>
+        </div>
+        <footer class="noun__footer">
+          <div class="noun__footer-item">
+            <input
+              type="radio"
+              id="<%= "noun-#{noun.id}-f" %>"
+              name="<%= "noun-#{noun.id}" %>"
+              class="noun__radio noun__radio--<%= noun.gender == 'female' ? '' : 'in' %>correct"
+            >
+            <label for="<%= "noun-#{noun.id}-f" %>" class="noun__label">une</label>
+          </div>
+          <div class="noun__footer-item">
+            <input
+              type="radio"
+              id="<%= "noun-#{noun.id}-m" %>"
+              name="<%= "noun-#{noun.id}" %>"
+              class="noun__radio noun__radio--<%= noun.gender == 'female' ? 'in' : '' %>correct"
+            >
+            <label for="<%= "noun-#{noun.id}-m" %>" class="noun__label">un</label>
+          </div>
+        </footer>
+      </div>
+    <% end %>
+  </div>
+</form>

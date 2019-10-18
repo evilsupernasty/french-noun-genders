@@ -1,0 +1,80 @@
+.nouns {
+  display: grid;
+  grid-gap: $gap;
+
+  @include tablet {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include desktop {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.noun {
+  @extend .card;
+
+  background-color: azure;
+  display: flex;
+  flex-direction: column;
+
+  &__content {
+    @extend .card-content;
+
+    flex-grow: 1;
+    text-align: center;
+  }
+
+  &__title {
+    @extend .title;
+  }
+
+  &__subtitle {
+    @extend .subtitle;
+  }
+
+  &__footer {
+    @extend .card-footer;
+
+    flex-grow: 0;
+  }
+
+  &__footer-item {
+    @extend .card-footer-item;
+
+    padding: 0;
+  }
+
+  &__radio {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+
+    &--correct:checked + label {
+      background-color: greenyellow;
+      &::after {
+        content: "✔";
+      }
+    }
+
+    &--incorrect:checked + label {
+      color: white;
+      background-color: tomato;
+      &::after {
+        content: "✘";
+      }
+    }
+  }
+
+  &__label {
+    cursor: pointer;
+    flex-grow: 1;
+    padding: $card-footer-padding;
+    position: relative;
+    text-align: center;
+    &::after {
+      margin-left: 0.5em;
+      position: absolute;
+    }
+  }
+}
